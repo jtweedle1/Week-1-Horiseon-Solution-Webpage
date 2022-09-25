@@ -25,4 +25,4 @@ General project installation instructions:
 * [HTML5 Semantic Tags: What They Are and How to Use Them!](https://www.semrush.com/blog/semantic-html5-guide/)
 
 ## License ##
-This projects utilizes the MIT license.
+This projects utilizes the MIT license. Please see the LICENSE.md file for more information.
