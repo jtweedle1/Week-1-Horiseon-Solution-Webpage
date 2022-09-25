@@ -12,6 +12,8 @@ This project was created for the purposes of understanding and implementing acce
 
 ## Installation ##
 The website can be viewed here: [Horiseon Social Solution Services, Inc.]()
+
+General project installation instructions:
 1. Make sure that you have the following programs installed: web browser, VS Code, Git Bash or Mac equivalent.
 2. Download all of the files and make sure they are stored in a bootcamp directory under your respective user directory.
 3. Make sure to create your own repository on GitHub (if necessary), and follow online instructions to connect your online repository to your local files.
@@ -23,4 +25,4 @@ The website can be viewed here: [Horiseon Social Solution Services, Inc.]()
 * [HTML5 Semantic Tags: What They Are and How to Use Them!](https://www.semrush.com/blog/semantic-html5-guide/)
 
 ## License ##
-This projects utilizes the MIT license.
+This projects utilizes the MIT license. Please see the LICENSE.md file for more information.
